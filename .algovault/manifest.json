@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T04:39:00.763Z",
+  "lastUpdated": "2026-08-12T04:51:06.349Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -55,6 +55,25 @@
               "runtime": "4 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "1235671415813910111217164class solution {    public int maxarea(int[] h) {        int max=0;        for(int i=0;i<n;i++){            for(int j=i+1;j<n;j++){                int h1=math.min(h[i],h[j]);            }        }                int w=j-i;                int a=h1*w;                if(a>max){                    max=a;                }    }        return max;        int n=h.length;": {
+              "syncedAt": 1786510266349,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         }
