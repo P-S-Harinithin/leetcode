@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T10:40:09.781Z",
+  "lastUpdated": "2026-08-12T04:17:54.320Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -19,6 +19,25 @@
               "runtime": "381 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786508274320,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
         }
