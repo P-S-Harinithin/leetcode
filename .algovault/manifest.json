@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T04:38:06.939Z",
+  "lastUpdated": "2026-08-12T04:39:00.763Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -41,23 +41,20 @@
             }
           }
         },
-        "longest-palindromic-substring": {
-          "questionId": "5",
-          "title": "Longest Palindromic Substring",
-          "titleSlug": "longest-palindromic-substring",
-          "difficulty": "Medium",
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
           "tags": [
-            "Two Pointers",
-            "String",
-            "Dynamic Programming",
-            "Manacher"
+            "Math"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786509486939,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+              "syncedAt": 1786509540763,
+              "runtime": "4 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
         }
