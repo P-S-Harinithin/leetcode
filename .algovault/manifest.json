@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T04:17:54.320Z",
+  "lastUpdated": "2026-08-12T04:38:06.939Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -38,6 +38,26 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786509486939,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
